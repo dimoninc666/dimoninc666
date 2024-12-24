@@ -1,0 +1,10 @@
+Reporting-MTA: dns; ci74p00im-qukt09081901.me.com
+X-Postfix-Queue-ID: 191515AC045B
+X-Postfix-Sender: rfc822; dimoninc666@me.com
+Arrival-Date: Sun, 22 Dec 2024 17:18:33 +0000 (UTC)
+
+Final-Recipient: rfc822; *******@****************
+Original-Recipient: rfc822;Kontakt@shishacounter.de
+Action: failed
+Status: 5.4.6
+Diagnostic-Code: X-Postfix; mail for shishacounter.de loops back to myself
